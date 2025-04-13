@@ -1,2 +1,6 @@
 This is file1.txt
+<<<<<<< HEAD
 newchanges from local 
+=======
+this is second change
+>>>>>>> 9619b1d77029a4c00c4fd6c54eaad950d88d7569
